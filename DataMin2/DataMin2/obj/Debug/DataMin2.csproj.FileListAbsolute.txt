@@ -1,0 +1,9 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\DataMin2\DataMin2\bin\Debug\DataMin2.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\DataMin2\DataMin2\bin\Debug\DataMin2.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\DataMin2\DataMin2\bin\Debug\DataMin2.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\DataMin2\DataMin2\obj\Debug\DataMin2.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\DataMin2\DataMin2\obj\Debug\DataMin2.Form1.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\DataMin2\DataMin2\obj\Debug\DataMin2.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\DataMin2\DataMin2\obj\Debug\DataMin2.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2015\Projects\DataMin2\DataMin2\obj\Debug\DataMin2.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\DataMin2\DataMin2\obj\Debug\DataMin2.pdb

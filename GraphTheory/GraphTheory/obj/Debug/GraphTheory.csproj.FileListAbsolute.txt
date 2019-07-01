@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\GraphTheory\GraphTheory\bin\Debug\GraphTheory.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\GraphTheory\GraphTheory\bin\Debug\GraphTheory.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\GraphTheory\GraphTheory\bin\Debug\GraphTheory.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\GraphTheory\GraphTheory\obj\Debug\GraphTheory.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\GraphTheory\GraphTheory\obj\Debug\GraphTheory.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\GraphTheory\GraphTheory\obj\Debug\GraphTheory.pdb
